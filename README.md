@@ -1,5 +1,7 @@
 # GUIDANCE
 
+http://www.sjtufold.com/
+
 The function of our website can be divided into three components. 
 
 The first function is predicting the secondary structure of specified RNA sequence, you just need to input a FASTA formated RNA sequence(composed of ATCGU or atcgu) and then click the button located below the input box. The software will return a web interface for displaying RNA secondary structures, you can even drag the specified bases you want to observe their structural changes. The website also provides an example for display. Tap `EXAMPLE` and click the button below, and you will see the most accurate prediction of RNA secondary structure. If the sequence you entered contains bases other than ATCGU (atcgu), you will receive an error message.
