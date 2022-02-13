@@ -1,6 +1,12 @@
 # GUIDANCE
 
+<<<<<<< HEAD
 You can visit our website through www.sjtufold.com
+=======
+http://www.sjtufold.com/
+
+The function of our website can be divided into three components. 
+>>>>>>> 7178a3f78bbfec918890803b2e51a27f77d2f657
 
 ![](./photo/index.jpg)
 
